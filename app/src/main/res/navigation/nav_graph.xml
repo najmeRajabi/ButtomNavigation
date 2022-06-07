@@ -11,12 +11,12 @@
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
     <fragment
-        android:id="@+id/secondeFragment"
+        android:id="@+id/action_search"
         android:name="com.example.buttomnavigation.ui.secondeFragment"
         android:label="fragment_seconde"
         tools:layout="@layout/fragment_seconde" />
     <fragment
-        android:id="@+id/thiredFragment"
+        android:id="@+id/action_add"
         android:name="com.example.buttomnavigation.ui.ThiredFragment"
         android:label="fragment_thired"
         tools:layout="@layout/fragment_thired" />
